@@ -1,5 +1,4 @@
 
-
 Implementing AI in your content marketing strategy can be a game-changer for small businesses, but it's important to measure the impact of these technologies to ensure that you're achieving your business objectives. In this chapter, we'll cover some key considerations for measuring the impact of AI on small business content marketing.
 
 Assessing the Effectiveness of AI for Small Business Content Marketing

@@ -1,5 +1,4 @@
 
-
 While AI can provide small businesses with powerful tools to improve their content marketing efforts, there are also important ethical considerations to keep in mind when implementing AI. In this chapter, we will discuss the ethical considerations of AI implementation in small business content marketing.
 
 Transparency and Accountability

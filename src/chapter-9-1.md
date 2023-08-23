@@ -1,5 +1,4 @@
 
-
 Assessing the effectiveness of AI on small business content marketing is critical to determining if your strategy is delivering the results you are looking for. In this chapter, we will discuss best practices for assessing the effectiveness of AI on small business content marketing.
 
 Identifying Key Performance Indicators
